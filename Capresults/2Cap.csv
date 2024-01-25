@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1706004832634,922,GETRequest,200,OK,Thread Group 1-1,text,true,,1929,160,1,1,https://reqres.in/api/users?page=2,916,0,869
+1706004833558,947,POSTRequest,201,Created,Thread Group 1-1,text,true,,925,219,1,1,https://reqres.in/api/users,947,0,0
+1706004834507,708,PUTRequest,200,OK,Thread Group 1-1,text,true,,920,227,1,1,https://reqres.in/api/users/2,708,0,0
+1706004835216,768,DELETERequest,204,No Content,Thread Group 1-1,,true,,808,177,1,1,https://reqres.in/api/users/2,0,0,0
